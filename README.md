@@ -20,5 +20,14 @@ Requirements:
 3.Whenever student logins, he/she can view class routines and class assignments, send and receive class assignments.
 4.Whenever teacher logins, he/she can view class routines, send class assignments.
 
+=========
+by subash
+=========
+Home: The home page should have the infomation about the college with quick contact and other basic links with see more 
+links. The header section should include image slider with relevant high quality images.
+Message from the president and google map. News and event box.
+
+Programs: Information about the programs mentioning their scopes and highlights of the course.
+
     
   
